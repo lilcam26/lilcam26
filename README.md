@@ -1,14 +1,10 @@
-- 👋 Hi, I’m lilcam
+👋 Hi, I’m lilcam
 
+~ I'm not as much of a computer science student at ASU than I am a self taught developer. I've had a passion for software engineering and artificial intelligence since a very young age and I am currently developing websites and web apps. I have just finished developing a few smaller games and one that I will be releasing to the app store within the upcoming months.
 
+~ I enjoy learing new coding languages and then creating a game with it
 
+~ I would be interested in collaborating with anyone who has an ambition for software developement and will consistently contribute to the project. 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at cshimko@asu.edu
 
-<!---
-lilcam26/lilcam26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
