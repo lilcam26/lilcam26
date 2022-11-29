@@ -1,8 +1,6 @@
 👋 Hi, I’m Christian
 
-~ I'm not as much of a computer science student at ASU as I am a self taught developer. I've had a passion for software engineering and artificial intelligence since a very young age and I am currently developing websites and web apps. I have just finished developing a few smaller games and one that I will be releasing to the app store within the upcoming months.
-
-~ I enjoy learning new coding languages and then creating a game with it
+~ I've had a passion for software engineering and artificial intelligence since a very young age, and I'm currently the CTO at M32 Development Group where I am developing full stack web applications and managing databases. Considering my premature exposure to software engineering, I'm not as much of a computer science student at ASU as I am a self-taught developer. As a result, I can easily adapt to new languages and start making contributions quickly. I'm, as well, tutoring other software engineering students to help get them started on the right foot. I am excited to further my knowledge and add more tools to my toolbox — hopefully turning my passion into a meaningful contribution to technology and society as a whole.
 
 ~ I would be interested in collaborating with anyone who has an ambition for software developement and will consistently contribute to the project. 
 
