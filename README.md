@@ -4,5 +4,5 @@
 
 ~ I would be interested in collaborating with anyone who has an ambition for software developement and will consistently contribute to the project. 
 
-- 📫 You can reach me at cshimko@asu.edu
+- 📫 You can reach me at ImChristianShimko@gmail.com
 
